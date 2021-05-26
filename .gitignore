@@ -1,0 +1,16 @@
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+
+
+*.sls~
+*.sls#*
+.#*.sls
+
+/research
+
+Gutenberg War and Peace.txt
